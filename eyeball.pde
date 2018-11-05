@@ -1,4 +1,5 @@
 //add eyeball code here
+size(500,500);
 //white of eye
 fill(0,0,0);
 ellipse(150,150,220,200);
